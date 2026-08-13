@@ -97,7 +97,9 @@ const rashid = {
 ---
 
 ### 🚀 Featured Repositories
-- [**wordpress-frontend-portfolio**](https://github.com/rashidhassan0018-blip/wordpress-frontend-portfolio) — Modern responsive portfolio & project showcase built with HTML5, CSS3, JavaScript & WordPress integration.
+- [**synergy-taskhub-app**](https://github.com/rashidhassan0018-blip/synergy-taskhub-app) — Full Stack Node.js & Express REST API + Interactive Kanban Workspace App.
+- [**velocity-luxe-ecommerce**](https://github.com/rashidhassan0018-blip/velocity-luxe-ecommerce) — Modern Full Stack E-Commerce Storefront with slide-out bag drawer & coupon engine.
+- [**wordpress-frontend-portfolio**](https://github.com/rashidhassan0018-blip/wordpress-frontend-portfolio) — Interactive portfolio website, categorized tech stack & printable resume.
 
 ---
 
