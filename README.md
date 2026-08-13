@@ -10,6 +10,7 @@
   </p>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/rashid-hassan-173596429/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:rashidhassan0018@gmail.com"><img src="https://img.shields.io/badge/Email-rashidhassan0018%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://rashidhassan0018-blip.github.io/wordpress-frontend-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
     <a href="https://github.com/rashidhassan0018-blip"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -105,6 +106,7 @@ const rashid = {
 
 ### 📬 Get in Touch
 - 💬 Ask me about **Full Stack Web Development, React, Node.js, Express, MongoDB, and WordPress**
+- 🔗 LinkedIn: [linkedin.com/in/rashid-hassan-173596429](https://www.linkedin.com/in/rashid-hassan-173596429/)
 - 📫 Email: [rashidhassan0018@gmail.com](mailto:rashidhassan0018@gmail.com)
 - 🌐 Live Portfolio: [rashidhassan0018-blip.github.io/wordpress-frontend-portfolio](https://rashidhassan0018-blip.github.io/wordpress-frontend-portfolio/)
 
